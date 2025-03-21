@@ -1,0 +1,3 @@
+
+VERBOSE = True
+DEFAULT_LOGGED_IN_EMAIL = "tra0163@vsb.cz"
